@@ -16,5 +16,5 @@ The sensor index is an identifying number unique to each sensor. It is 4-6 chara
 * Append files downloaded from SD card and decoding the file struction to be the same as the WiFi data file with using `PurpleAir SD Data append.py`
 
 ## Cite
-Wang, M., Stephens, B., Heidarinejad, M., Kang, I., Singh, A., Rodriguez, R., Chang, D., Solomon, G., Rubinstein, I., Elfessi, Z., Jagota, K., and Karpen, N., "Experiences with low-cost optical particle sensors for indoor exposure assessment in residential field studies, ORAL presentation at the ISES 2023 Annual Meeting, August 27-31 in Chicago, Illinois.
+Wang, M., Stephens, B., Heidarinejad, M., Kang, I., Singh, A., Rodriguez, R., Chang, D., Solomon, G., Rubinstein, I., Elfessi, Z., Jagota, K., and Karpen, N., "Experiences with low-cost optical particle sensors for indoor exposure assessment in residential field studies", ORAL presentation at the ISES 2023 Annual Meeting, August 27-31 in Chicago, Illinois.
 
