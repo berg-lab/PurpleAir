@@ -1,4 +1,4 @@
-# ISES 2023 Purple Air Data Download
+# Purple Air Data Download (Last Updated: 2023)
 
 ## Prerequisites
 The sensor index is an identifying number unique to each sensor. It is 4-6 characters long.
